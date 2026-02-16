@@ -1,0 +1,7 @@
+{
+  "name": "Sài Gòn Buddy",
+  "description": "Người bạn ảo Sài Gòn thực thụ, đồng hành cùng bạn qua những nẻo đường và cảm xúc. Một ứng dụng chat AI kết hợp bản đồ khám phá thành phố Hồ Chí Minh.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
